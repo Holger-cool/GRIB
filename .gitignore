@@ -1,0 +1,6 @@
+.vscode/*
+output/*
+.vscode/ 
+output/
+data/grib_data/*
+.idea
