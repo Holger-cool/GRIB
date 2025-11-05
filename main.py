@@ -387,9 +387,15 @@ if __name__ == "__main__":
         "NO5": {
             "level_names": ["NO032", "NO051", "NO052"]
             },
-        "BAL": {
-            "level_names": ["EE","LV","LT"]
+        "EE": {
+            "level_names": ["EE"]
             },
+        "LV": {
+            "level_names": ["LV"]
+            },
+        "LT": {
+            "level_names": ["LT"]
+        },
         "DE": {
             "level_names": ["DE"]
             },
